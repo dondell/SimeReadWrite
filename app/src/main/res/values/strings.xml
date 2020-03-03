@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleReadWrite</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+</resources>
